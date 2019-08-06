@@ -1,5 +1,6 @@
 {
-  "description": "UiPath_REFrameWork Template",
+  "name": "UiPath_REFramework_UiDemo",
+  "description": "Demonstrating the REFramework with UiDemo",
   "version": "2016.2.6274.33252",
   "main": "Main.xaml",
   "id": "UiPath_REFrameWork",
